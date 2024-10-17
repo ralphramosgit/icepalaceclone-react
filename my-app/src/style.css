@@ -1,0 +1,51 @@
+.palacelogo{
+    width: 136.84px;
+    height: auto;
+    max-width:none;
+}
+
+.mainHeader{
+    background:
+        linear-gradient(to right, #e19f62 20%, #C9838B , #839bc9 , #E3ABC3);
+}
+.dropdown-toggle::after{
+    display:none;
+}
+
+.middleDiv{
+    background:linear-gradient(to bottom right, #e0aa76 45% ,#839bc9, #c17f9a,  #c17f9a );
+    background-size:cover;
+}
+
+.sinceDiv{
+    background:linear-gradient(to bottom right, #dacda3 ,#d45d58, #428de3);
+    height:200px;
+}
+footer {
+    background: linear-gradient(to bottom right, #876e1e, #d45d58, #428de3, #e36f9d); /* Your desired gradient */
+    color: white; 
+    padding-top:200px;
+    padding-bottom:20px;
+}
+
+.iceSkateImg{
+    background-image: url("https://i.imgur.com/N1Yruip.jpeg");
+}
+.dropdown-menu {
+    background-color: black !important; 
+}
+
+.dropdown-item {
+    color: white !important; 
+}
+
+.container-fluid {
+    padding: 0; 
+  }
+  
+  .g-0 {
+    margin: 0; 
+  }
+  .video-section video {
+    object-fit: cover; 
+  }
